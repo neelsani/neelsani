@@ -7,7 +7,7 @@ Student
 I love code!!!
 
 * 🌍  I'm based in Atlanta
-* 🖥️  See my portfolio at [neelsani.me](http://neelsani.me)
+* 🖥️  See my portfolio at [neels.dev](http://neels.dev)
 * ✉️  You can contact me at [neel@neels.dev](mailto:neel@neels.dev)
 
 ### Skills
