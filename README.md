@@ -2,7 +2,7 @@
 
 **CS @ [Georgia Tech](https://www.gatech.edu) 🐝** 
 
-Obsessed with low-latency code and memory safety.  
+Obsessed with low-latency code and scalable systems.  
 
 ⚙️ **Focus:** Distributed scalable systems & High-Performance Computing (HPC)  
 🛠️ **Stack:** `C++`, `Zig`, `Go`, `Linux`  
