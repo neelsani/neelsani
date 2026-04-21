@@ -2,10 +2,10 @@
 
 **CS @ [Georgia Tech](https://www.gatech.edu) 🐝** 
 
-Obsessed with low-latency code and scalable systems.  
+I enjoy writing performant code and developing scalable systems.
 
 ⚙️ **Focus:** Distributed scalable systems & High-Performance Computing (HPC)  
-🛠️ **Stack:** `C++`, `Zig`, `Go`, `Linux`  
+🛠️ **Stack:** `C++`, `Go`, `Python`, `Zig🦎`, `Linux`  
 
 ---
 
