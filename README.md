@@ -4,7 +4,7 @@
 
 I enjoy writing code.
 
-🛠️ **Stack:** `C++`, `C`, `Go`, `Python`, `Zig🦎`, `Rust`, `Linux` 
+🛠️ **Stack:** `C++`, `C`, `Go`, `Python`, `Zig🦎`, `Rust`
 
 ---
 
