@@ -4,7 +4,7 @@
 
 I enjoy writing code.
 
-🛠️ **Stack:** `C++`, `C`, `Go`, `Python`, `Zig🦎`, `Rust`
+🛠️ **Stack:** `C++`, `Go`, `Python`, `C`, `Zig🦎`, `Rust`
 
 I also just started building my homelab: [homelab git](https://git.neels.dev/)
 
