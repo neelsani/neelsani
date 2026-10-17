@@ -7,7 +7,7 @@ I enjoy writing code.
 🛠️ **Stack:** `C++`, `Go`, `Python`, `C`, `Zig🦎`, `Rust`
 
 I also just started building my homelab: [homelab git](https://git.neels.dev/)
-
+also check out my malware analysis sandbox! [malbox](https://malbox.neels.dev/)
 ---
 
 ### 🌱 connect
